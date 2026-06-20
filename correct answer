@@ -35,4 +35,16 @@ application/json
 JSON.stringify
 fetchBoards
 
-  
+
+---------------
+화면
+http://localhost:8080
+
+목록 API
+http://localhost:8080/api/boards
+
+H2 콘솔
+http://localhost:8080/h2-console
+
+■ H2 JDBC URL
+jdbc:h2:file:./h2db/board_db
